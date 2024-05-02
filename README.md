@@ -1,6 +1,8 @@
 # Todo List
 
-This todo list has been developed using __React and Material UI__ and uses Local Storage to store data.
+## Introduction and Installation
+
+This To-do list has been developed using __React and Material UI__ and uses Local Storage to store data.
 
 To run the project on your machine, run the following commands on the terminal:
 1. Creating Vite Project
@@ -23,3 +25,4 @@ To run the project on your machine, run the following commands on the terminal:
    ```
    npm install @mui/icons-material
    ```
+
