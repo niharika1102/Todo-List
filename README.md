@@ -9,17 +9,17 @@ To run the project on your machine, run the following commands on the terminal:
    ```
    Follow the prompts after running the command.
    
-3. Installing Material UI
-  ```
+2. Installing Material UI
+   ```
    npm install @mui/material @emotion/react @emotion/styled
    ```
 
-5. Installing Fonts
+3. Installing Fonts
    ```
    npm install @fontsource/roboto
    ```
 
-6. Installing Icons
+4. Installing Icons
    ```
    npm install @mui/icons-material
    ```
