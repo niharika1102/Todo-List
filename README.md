@@ -26,3 +26,7 @@ To run the project on your machine, run the following commands on the terminal:
    npm install @mui/icons-material
    ```
 
+## Built With
+| Icon | Name | Description |
+| --- | --- | --- |
+|[React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)|React||React is a free and open-source front-end JavaScript library for building user interfaces based on components.|
