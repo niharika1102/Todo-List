@@ -29,5 +29,5 @@ To run the project on your machine, run the following commands on the terminal:
 ## Built With
 | Icon | Name | Description |
 | --- | --- | --- |
-|![Vite](https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg)|Vite|Vite JS is used to set up a development environment for various frameworks like React and Vue, and even for a Vanilla JavaScript app with a dev server.|
+|![Vite](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg)|Vite|Vite JS is used to set up a development environment for various frameworks like React and Vue, and even for a Vanilla JavaScript app with a dev server.|
 |![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)|React|React is a free and open-source front-end JavaScript library for building user interfaces based on components.|
